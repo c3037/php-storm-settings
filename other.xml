@@ -1,0 +1,34 @@
+<application>
+  <component name="BuiltInServerOptions" allowUnsignedRequests="true" />
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="7.5.0" last-modified="1485888046000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="C:/Program Files (x86)/Yarn/bin/yarn.cmd">
+      <version-cache version="0.27.5" last-modified="1498855376000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <Redmine shared="false" url="http://redmine.vseinstrumenti.ru">
+      <option name="APIKey" value="" />
+      <option name="assignedToMe" value="true" />
+      <commitMessageFormat>GLPI#{id}: {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <RedmineProject id="-1" identifier="-- from all projects --" />
+      </option>
+      <password>dfeedfcbdf9bdf9cdf9bdf9bdf98df9adf9bdf9d</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>PorozhnyakovDA</username>
+    </Redmine>
+  </component>
+</application>
