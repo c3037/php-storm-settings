@@ -9,12 +9,6 @@
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="C:\Projects\basis\vendor\bin\phpcs.bat" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\Software\php7.0\php.exe" id="ad4249a9-1560-41a8-b5f0-ba0678cbbdfc" name="PHP 7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\progs\php7.1\php-7.1.9-Win32-VC14-x86\php.exe" id="87926644-3794-4382-8042-b8123a9e248a" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1">
